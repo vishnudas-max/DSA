@@ -1,0 +1,2 @@
+
+        h=self.hash(key)
